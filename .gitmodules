@@ -1,0 +1,6 @@
+[submodule "submodules/luau"]
+	path = submodules/luau
+	url = https://github.com/luau-lang/luau.git
+[submodule "submodules/argparse"]
+	path = submodules/argparse
+	url = https://github.com/p-ranav/argparse.git
